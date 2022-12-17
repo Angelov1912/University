@@ -1,0 +1,6 @@
+1. Initialise celsius_temp with a list of temperatures in Celsius
+2. Initialise fahrenheit_temp with an empty listfor the converted temperatures
+3. For each celsius in celsius_temp:
+  3a. Set fahrenheit to celsius * 1.8 + 32
+  3b. Append fahrenheit to fahrenheit_temp
+4. Print fahrenheit_temp
